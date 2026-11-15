@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+ryu-env/
+osken-env/
+.venv/
+venv/
+.env

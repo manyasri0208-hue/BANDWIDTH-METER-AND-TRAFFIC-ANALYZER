@@ -1,0 +1,4 @@
+Expected,Received,Lost,Loss_Percent,Bytes,Throughput_Mbps,Average_Delay_ms,Jitter_ms
+6104,6104,0,0.0,6250496,5.006,0.198,0.05
+6104,3867,2237,36.65,3959808,3.17,0.21,0.049
+2442,2442,0,0.0,2500608,2.001,0.358,0.077
